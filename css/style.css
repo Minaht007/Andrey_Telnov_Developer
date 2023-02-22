@@ -197,11 +197,31 @@ body {
 	height: 350px;
 	margin-bottom: 50px;
 }
+
+.contact_list {
+	color: #ffffff;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.contact_item {
+	display: flex;
+	align-items: center;
+}
+
 .contacts,
 .tech_skills,
 .soft_skills {
 	margin-left: 40px;
 }
+
+.contacts__icon-mail {
+	fill: #ffffff;
+	width: 15px;
+	height: 16px;
+	margin-right: 10px;
+}
+
 .soft_skills {
 	margin-top: 50px;
 }
@@ -238,6 +258,7 @@ body {
 	line-height: 24px;
 	color: #565e6a;
 }
+
 .contact_link:hover,
 .contact_link:focus {
 	color: #fb6d3a;
