@@ -61,6 +61,17 @@ body {
 	width: 400px;
 }
 
+.description_projects {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+
+	color: #000;
+
+	width: 400px;
+}
+
 /* project styles  */
 .projects {
 	margin-bottom: 50px;
