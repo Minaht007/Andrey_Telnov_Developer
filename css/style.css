@@ -61,6 +61,11 @@ body {
 	width: 400px;
 }
 
+/* project styles  */
+.projects {
+	margin-bottom: 50px;
+}
+
 .description_projects {
 	font-style: normal;
 	font-weight: 700;
@@ -70,11 +75,6 @@ body {
 	color: #000;
 
 	width: 400px;
-}
-
-/* project styles  */
-.projects {
-	margin-bottom: 50px;
 }
 
 .title {
