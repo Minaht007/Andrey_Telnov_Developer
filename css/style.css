@@ -209,6 +209,7 @@ body {
 	margin-bottom: 50px;
 }
 .tech_skills {
+	list-style: none;
 	margin-bottom: 45;
 }
 
@@ -240,12 +241,14 @@ body {
 }
 
 .tech_skills_list {
+	list-style: none;
 	color: #ffffff;
 	padding: 0;
 	margin-left: 17px;
 }
 
 .soft_skills_list {
+	list-style: none;
 	color: #ffffff;
 	padding: 0;
 	margin-left: 17px;
