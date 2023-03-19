@@ -57,7 +57,7 @@ body {
 
 	color: #595959;
 
-	width: 400px;
+	width: 600px;
 }
 
 /* project styles  */
@@ -92,7 +92,12 @@ body {
 	margin-left: 10px;
 }
 
+.project_link--git {
+	color: #595959;
+}
+
 .project_link:hover,
+.project_link--git:hover,
 .project_link:focus {
 	color: orange;
 }
