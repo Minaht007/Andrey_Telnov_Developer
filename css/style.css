@@ -179,6 +179,7 @@ body {
 	width: 270px;
 	height: 350px;
 	margin-bottom: 50px;
+	object-fit: contain;
 }
 
 .contact_list {
