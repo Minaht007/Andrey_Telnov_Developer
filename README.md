@@ -7,7 +7,7 @@ Full-stack developer
 
 ## Summary
 
-A JavaScript software engineer with primary interest in development of _React_ applications. 
+A JavaScript software engineer with primary interest in development of _React_ and _Next_ applications. 
 
 I am also interested in developing better mastership of _Node.js_ (currently, undergo a training). 
 

@@ -131,6 +131,14 @@ body {
 	margin-bottom: 10px;
 }
 
+.dutySpan {
+	padding-left: 20px;
+}
+.subSkils {
+	padding-left: 15px;
+	color: #ffffff;
+}
+
 .line {
 	font-size: 12px;
 	line-height: 15px;
@@ -273,4 +281,9 @@ body {
 
 .soft_skills_text {
 	color: #ffffff;
+}
+
+.subLanguage {
+	padding-left: 12px;
+	color: #fff;
 }
