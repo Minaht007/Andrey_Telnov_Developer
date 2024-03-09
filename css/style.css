@@ -90,16 +90,20 @@ body {
 
 .project_link {
 	margin-left: 10px;
+	text-decoration: none;
 }
 
 .project_link--git {
 	color: #595959;
+	text-decoration: none;
 }
 
 .project_link:hover,
 .project_link--git:hover,
 .project_link:focus {
-	color: orange;
+	color: rgb(102, 180, 247);
+	font-size: 16px;
+	font-weight: 600;
 }
 
 /* work styles */
