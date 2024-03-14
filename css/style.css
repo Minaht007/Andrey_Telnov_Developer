@@ -307,9 +307,17 @@ ul.subSkills {
 
 .downloadPdf {
 	display: flex;
-	padding: 10px 15px;
+	background-color: aliceblue;
 	border-radius: 6px;
+	width: fit-content;
 	margin: 10px auto;	
 	font-size: 16px;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	margin-top: 60px;
+	
+}
+.downloadPdfLink {
+	text-decoration: none;
+	color: #2c7ffc;
+	padding: 10px 15px;
 }
