@@ -360,7 +360,7 @@
 				</ul>
 			</section>
 
-			<button class="downloadPdf" type="button" onclick="onclick=downloadPDF()" id="downloadBtm">Download CV-pdf</button>
+			<button class="downloadPdf" type="button" onclick="downloadPDF()" id="downloadBtm">Download CV-pdf</button>
 		</aside>
 	</div>
 
@@ -374,10 +374,12 @@
 			link.style.display = 'none';
 			document.body.appendChild(link);
 			link.click();
+			link.blur()
 			document.body.removeChild(link);
 		}
 
 		document.getElementById('downloadBtn').addEventListener('click', downloadPDF);
+		
 	</script>
 
 	<!-- <script>
