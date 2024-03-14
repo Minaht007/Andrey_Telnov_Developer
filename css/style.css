@@ -304,3 +304,12 @@ ul.subSkills {
 .soft_skills_list ul {
 	padding-left: 1em;
 }
+
+.downloadPdf {
+	display: flex;
+	padding: 10px 15px;
+	border-radius: 6px;
+	margin: 10px auto;	
+	font-size: 16px;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
