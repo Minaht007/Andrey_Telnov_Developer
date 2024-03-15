@@ -263,7 +263,7 @@ li {
 
 ul.subSkills {
 	padding-left: 2em;
-	color: ;
+	
 	list-style-type: disc;
 }
 
@@ -318,6 +318,6 @@ ul.subSkills {
 }
 .downloadPdfLink {
 	text-decoration: none;
-	color: #2c7ffc;
+	color: #e90a0a;
 	padding: 10px 15px;
 }
