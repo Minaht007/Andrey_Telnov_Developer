@@ -1,31 +1,34 @@
 # My resume (CV)
 
-Name: **Andrey Telnov**
+Name: **Andrii Telnov**
 
-Full-stack developer
+>     Full-stack developer
+>         JavaScript specialist
+>             Front and Backend developer
+>                 ...with a medical background
 
 
 ## Summary
 
 A JavaScript software engineer with primary interest in development of _React_ and _Next_ applications. 
 
-I am also interested in developing better mastership of _Node.js_ (currently, undergo a training). 
+I am also interested in developing a better mastership of _Node.js_ (currently, undergo a training). 
 
 I am searching for a position with a stable and supportive team 
 where I'd be able to contribute and extend my portfolio. 
 My aspiration is to master the upscaling of web applications built with _React_ and _Redux_. 
 
-During my career, I have also had a privilege of leading a team of professionals and extensive experience of working directly with clients. 
+During my career, I have also had a privilege of leading a team of professionals, and extensive experience of working directly with clients. 
 
 As a person, I strive to keep abreast of the latest trends 
-and always open for improvements. 
+and am always open for improvements. 
 
 
 ---
 
 ## Project Experience
 
-> **[Note]** Links to GitHub repositories of the projects listed below can be provided on request. 
+> **[!NOTE]** Links to GitHub repositories of the projects listed below can be provided on request. 
 
  
 - Ice-ice-Baby _[ HTML5, SASS, JavaScript, Parcel ]_
@@ -136,12 +139,12 @@ Years: 2008 – Feb 2022
 
 ## Contacts
 
-+380 96 792 73 53 (Viber, Telegram)
+**Phone**: +380 96 792 73 53 (Viber, Telegram)
 
-Email: andreytelnov30@gmail.com
+**Email**: dr.andrii.telnov@gmail.com
 
 **GitHub**: [Minaht007](https://github.com/Minaht007)
 
-**[Linkedin](https://www.linkedin.com/in/andrey-telnov-8a968588/)**
+**[Linkedin: https://www.linkedin.com/in/andrii-telnov/](https://www.linkedin.com/in/andrii-telnov/)**
 
 Place of current residence: Ukraine, Rahiv/Dnipro
